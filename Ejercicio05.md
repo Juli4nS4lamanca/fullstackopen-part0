@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram
   participant browser
   participant server
@@ -27,6 +28,5 @@ sequenceDiagram
   deactivate server
 
   Note left of browser: El navegador ejecuta script para renderisar cada nota
-
-
+```
 
